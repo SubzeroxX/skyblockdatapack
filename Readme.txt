@@ -1,13 +1,25 @@
-Felhasználási feltételek:
+Tartalom jegyzék:
+1.Felhasználási feltételek
+2.Készítő
+3.pack.mcmeta file módosítása egy adott verzióhoz
+
+================================================================================================================
+
+1.Felhasználási feltételek:
     Engedélykérés nem szükséges
     Forrás megjelölés mindenképp ezeket:
         Készítő: SubzeroxX (csatorna: bit.ly/subzeroxx)
         A datapack helye: github.com/SubzeroxX/skyblockdatapack
+        
+================================================================================================================
 
-Készítette a datapack-et: SubzeroxX
+2.Készítette a datapack-et: SubzeroxX
     Csatorna: bit.ly/subzeroxx
+    Discord: bit.ly/SubzeroxXDiscord
+    
+================================================================================================================
 
-Ha, másféle verzióban játszol akkor a következők szerint kell módosítani a "pack.mcmeta" file-t
+3.Ha, másféle verzióban játszol akkor a következők szerint kell módosítani a "pack.mcmeta" file-t
 
 FONTOS!!! Ha módosítod a pack.mcmeta file-t akkor előfordulhat a datapack működése során, során hiba, pl.: nem működik az adott recept
 
