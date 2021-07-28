@@ -1,3 +1,10 @@
+Felhasználási feltételek:
+    Engedélykérés nem szükséges
+    Forrás megjelölés mindenképp ezeket:
+        Készítő: SubzeroxX (csatorna: bit.ly/subzeroxx)
+        A datapack helye: github.com/SubzeroxX/skyblockdatapack
+
+
 Ha, másféle verzióban játszol akkor a következők szerint kell módosítani a "pack.mcmeta" file-t
 
 FONTOS!!! Ha módosítod a pack.mcmeta file-t akkor előfordulhat a datapack működése során, során hiba, pl.: nem működik az adott recept
