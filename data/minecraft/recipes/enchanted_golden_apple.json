@@ -1,0 +1,25 @@
+{
+    "type": "crafting_shaped",
+    "pattern":
+    [
+      "ggg",
+      "gag",
+      "ggg"
+    ],
+    "key":
+    {
+      "g":
+      {
+        "item": "minecraft:gold_block"
+      },
+      "a":
+      {
+        "item": "minecraft:apple"
+      }
+    },
+    "result":
+    {
+      "item": "minecraft:enchanted_golden_apple",
+      "count": 1
+    }
+  }

@@ -1,0 +1,29 @@
+{
+    "type": "crafting_shaped",
+    "pattern":
+    [
+      "rwr",
+      "wbw",
+      "rrr"
+    ],
+    "key":
+    {
+      "r":
+      {
+        "item": "minecraft:red_dye"
+      },
+      "w":
+      {
+        "item": "minecraft:white_dye"
+      },
+      "b":
+      {
+        "item": "minecraft:brown_mushroom"
+      }
+    },
+    "result":
+    {
+      "item": "minecraft:red_mushroom",
+      "count": 1
+    }
+  }

@@ -1,0 +1,25 @@
+{
+    "type": "crafting_shaped",
+    "pattern":
+    [
+      " d ",
+      " w ",
+      "   "
+    ],
+    "key":
+    {
+      "d":
+      {
+        "item": "minecraft:dead_bush"
+      },
+      "w":
+      {
+        "item": "minecraft:water_bucket"
+      }
+    },
+    "result":
+    {
+      "item": "minecraft:oak_sapling",
+      "count": 1
+    }
+  }

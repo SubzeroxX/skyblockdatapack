@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "db ",
+    "   "
+  ],
+  "key":
+  {
+    "b":
+    {
+      "item": "minecraft:bone_meal"
+    },
+    "d":
+    {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result":
+  {
+    "item": "minecraft:grass_block",
+    "count": 1
+  }
+}
