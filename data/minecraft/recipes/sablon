@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+    "pattern":
+    [
+      "  s",
+      "  s",
+      "   "
+    ],
+    "key":
+    {
+      "s":
+      {
+        "item": "minecraft:_slab"
+      }
+    },
+    "result":
+    {
+      "item": "minecraft:_planks",
+      "count": 1
+    }
+  }
+
+
+_planks_from_slab.json

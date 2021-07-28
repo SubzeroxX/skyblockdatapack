@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+    "pattern":
+    [
+      "  s",
+      "  s",
+      "   "
+    ],
+    "key":
+    {
+      "s":
+      {
+        "item": "minecraft:dark_oak_slab"
+      }
+    },
+    "result":
+    {
+      "item": "minecraft:dark_oak_planks",
+      "count": 1
+    }
+  }

@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+    "pattern":
+    [
+      "  s",
+      "  s",
+      "   "
+    ],
+    "key":
+    {
+      "s":
+      {
+        "item": "minecraft:smooth_stone_slab"
+      }
+    },
+    "result":
+    {
+      "item": "minecraft:smooth_stone_planks",
+      "count": 1
+    }
+  }

@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+    "pattern":
+    [
+      "dd ",
+      "dd ",
+      "   "
+    ],
+    "key":
+    {
+      "w":
+      {
+        "item": "minecraft:dirt"
+      }
+    },
+    "result":
+    {
+      "item": "minecraft:sand",
+      "count": 2
+    }
+  }
