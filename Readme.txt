@@ -4,6 +4,8 @@ Felhasználási feltételek:
         Készítő: SubzeroxX (csatorna: bit.ly/subzeroxx)
         A datapack helye: github.com/SubzeroxX/skyblockdatapack
 
+Készítette a datapack-et: SubzeroxX
+    Csatorna: bit.ly/subzeroxx
 
 Ha, másféle verzióban játszol akkor a következők szerint kell módosítani a "pack.mcmeta" file-t
 
