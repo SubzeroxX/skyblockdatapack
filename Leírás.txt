@@ -1,0 +1,3 @@
+A saját fejlesztésű datapack-em a Classic Skyblock-hoz, ami 1.16.5-höz készült, 
+de a verzió módosításáról az információk, hogy hogy kell, ott van a Readme.txt fileban, fogjuk frissíteni is, 
+jelenlegi verzió: 1.0
