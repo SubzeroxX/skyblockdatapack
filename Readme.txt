@@ -10,6 +10,7 @@ Tartalom jegyzék:
     Forrás megjelölés mindenképp ezeket:
         Készítő: SubzeroxX (csatorna: bit.ly/subzeroxx)
         A datapack helye: github.com/SubzeroxX/skyblockdatapack
+        alternatív: planetminecraft.com/data-pack/morecraft-for-classic-skyblock/
         
 ================================================================================================================
 
