@@ -16,4 +16,4 @@ A "pack_fomat": (szám), -t kell módosítani, az alábbi verzió szabályok sze
 1.13 - 1.14.4:  akkor a "6"-os helyére írd be, hogy:  4
 1.15 - 1.16.1:  akkor a "6"-os helyére írd be, hogy:  5
 1.16.2 - 1.16.5:  akkor a "6"-os helyére írd be, hogy:  6
-1.17 -:  akkor a "6"-os helyére írd be, hogy:  7
+1.17 - :  akkor a "6"-os helyére írd be, hogy:  7
