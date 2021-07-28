@@ -10,12 +10,15 @@
     {
       "s":
       {
-        "item": "minecraft:smooth_stone_slab"
+        "item": "minecraft:_slab"
       }
     },
     "result":
     {
-      "item": "minecraft:smooth_stone",
+      "item": "minecraft:",
       "count": 1
     }
   }
+
+
+_planks_from_slab.json

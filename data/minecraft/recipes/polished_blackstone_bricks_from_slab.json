@@ -10,12 +10,12 @@
     {
       "s":
       {
-        "item": "minecraft:smooth_stone_slab"
+        "item": "minecraft:polished_blackstone_brick_slab"
       }
     },
     "result":
     {
-      "item": "minecraft:smooth_stone",
+      "item": "minecraft:polished_blackstone_bricks",
       "count": 1
     }
   }

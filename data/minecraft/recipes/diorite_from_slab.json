@@ -10,12 +10,12 @@
     {
       "s":
       {
-        "item": "minecraft:smooth_stone_slab"
+        "item": "minecraft:diorite_slab"
       }
     },
     "result":
     {
-      "item": "minecraft:smooth_stone",
+      "item": "minecraft:diorite",
       "count": 1
     }
   }
